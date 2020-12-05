@@ -1,12 +1,6 @@
-# grpc_tutorial
+# grpc_Addition and Multiplication GRPC Example
 
-### In this tutorial, we build a basic API using gRPC and protobufs in Go
+### In this program we build a basic calculator API by implementing gRPC and Protobfwe build a basic API using gRPC protobufs
 
-## Run `go run main.go` to run the app, run `go build main.go` to build an executable file.
-
-### Check out the Youtube Tutorial for this [Go Program](https://youtu.be/Y92WWaZJl24). Here is our [Youtube Channel](https://www.youtube.com/channel/UCYqCZOwHbnPwyjawKfE21wg) Subscribe for more content.
-
-### Check out our blog at [tensor-programming.com](http://tensor-programming.com/).
-
-### Our [Twitter](https://twitter.com/TensorProgram), our [facebook](https://www.facebook.com/Tensor-Programming-1197847143611799/) and our [Steemit](https://steemit.com/@tensor).
-
+## How to run it: Go to the /server folder and type `go run main.go`, then open another terminal and go to the client directory and run `go build main.go`.
+## To build an executable file run `go build main.go` on each of these directories (server and client).
