@@ -1,4 +1,4 @@
-## grpc_Addition and Multiplication GRPC Example
+## Addition and Multiplication GRPC Example
 
 ## In this program we build a basic calculator API by implementing gRPC protobufs.
 
